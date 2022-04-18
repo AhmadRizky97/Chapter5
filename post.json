@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "title": "Lorem Ipsum",
+        "body": "Ini adalah bagian body"
+    },
+    {
+        "id" : 2,
+        "title": "Lorem Ipsum 2",
+        "body": "Ini adalah bagian body"
+    },
+    {
+        "id" : 3,
+        "title": "Lorem Ipsum 3",
+        "body": "Ini adalah bagian body"
+    },
+    {
+        "id" : 4,
+        "title": "Lorem Ipsum 4",
+        "body": "Ini adalah bagian body"
+    }
+]
